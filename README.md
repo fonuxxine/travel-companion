@@ -1,5 +1,5 @@
 # Travel Companion
-Travel Companion is a web app that gives suggestions on restaurants, hotels and attractions in your chosen cities. The suggestions come with descriptions of cuisine, information of the place and can be filtered with ratings.
+Travel Companion is a web app that gives suggestions on restaurants, hotels and attractions in your chosen cities. The suggestions come with description of cuisine, information of the place and can be filtered with ratings.
 
 ## Demo
 https://drive.google.com/file/d/1U2ZO_zDqVwt-e8L-0Iz9ar8qwYx5bN7f/view?usp=sharing
