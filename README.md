@@ -1,7 +1,8 @@
 # Travel Companion
+Travel Companion is a web app that gives suggestions on restaurants, hotels and attractions in your chosen cities. The suggestions come with descriptions of cuisine, information of the place and can be filtered with ratings.
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo
+https://drive.google.com/file/d/1U2ZO_zDqVwt-e8L-0Iz9ar8qwYx5bN7f/view?usp=sharing
 
 ## Available Scripts
 
